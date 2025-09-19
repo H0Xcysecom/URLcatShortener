@@ -24,7 +24,7 @@
 
 > $ ls 
 
-> $ bash URLcatShortener.py
+> $ python URLcatShortener.py
 
 ---
 
